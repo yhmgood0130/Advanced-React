@@ -1,0 +1,5 @@
+node_modules
+public/app.js
+public/vendor.js
+coverage
+build

@@ -1,0 +1,8 @@
+{
+  "name": "state-api",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "repository": "https://github.com/yhmgood0130/state-api",
+  "author": "MoeYang",
+  "license": "MIT"
+}
